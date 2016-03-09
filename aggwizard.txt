@@ -1,0 +1,8 @@
+
+name="AGG"
+url="http://aggwizard.varsitycloud.co/item/d6366ca33a004d51bc83dc38f128cf14"
+img="http://i2.wp.com/kodiwizards.com/wp-content/uploads/2016/02/TQK0lZIfoK0.jpg"
+fanart="http://i2.wp.com/kodiwizards.com/wp-content/uploads/2016/02/TQK0lZIfoK0.jpg"
+description="AGG"
+
+
